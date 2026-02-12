@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 tulasidas
+=======
+<<<<<<< HEAD
+sameer Hello all 
+=======
+
+>>>>>>> 1f6b75fec2129d2b988b5fbcdfc7e2d3a5495936
 
 Hello all
 
@@ -28,3 +35,4 @@ Hello all guys
 wasim
 
 >>>>>>> cc7299118443dd637dcd2123588f95c90ab6835b
+>>>>>>> c95f9ed2809306183dc0c52d22cbfdd10b86537e
