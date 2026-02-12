@@ -1,11 +1,31 @@
+<<<<<<< HEAD
 
 
-Hello all 
+Hello EverOne 
 Karthik
 Karthik
 Hello all
 =======
+<<<<<<< HEAD
+<<<<<<< HEAD
+Hello all
+<<<<<<< HEAD
+i am tulasidas 
+=======
+=======
+<<<<<<< HEAD
+Ajay Sagar
+=======
+Hello all
+>>>>>>> db8dd717b61c9a2953eefebd0407acb5b49dbfe6
+>>>>>>> 8b807b395e34313aa6d67c2809bd0a850bcb552c
+=======
 Hello all guys
+>>>>>>> e4fa5fddbece9693c31963c741f74a6c4639762e
 wasim
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> cc7299118443dd637dcd2123588f95c90ab6835b
+>>>>>>> 8b807b395e34313aa6d67c2809bd0a850bcb552c
