@@ -1,8 +1,21 @@
-
+stopppppppp
 stop guys<<<<<<< HEAD <<<<<<< HEAD Hello all <<<<<<< HEAD i am tulasidas 
 ======= ======= <<<<<<< HEAD Ajay Sagar ======= Hello all
 =======
 <<<<<<< HEAD
+tulasidas
+=======
+<<<<<<< HEAD
+sameer Hello all 
+=======
+
+>>>>>>> 1f6b75fec2129d2b988b5fbcdfc7e2d3a5495936
+
+Hello all
+
+I am Sayan 
+
+=======
 <<<<<<< HEAD
 Hello all bunnydinesh 
 =======
@@ -20,8 +33,15 @@ Ajay Sagar
 Hello all
 >>>>>>> d4f641cae6b6426e572863dd4f593a356547926f
 >>>>>>> db8dd717b61c9a2953eefebd0407acb5b49dbfe6
+<<<<<<< HEAD
 ======= Hello all guys
+=======
+=======
+>>>>>>> db8dd717b61c9a2953eefebd0407acb5b49dbfe6
+Hello all guys
+>>>>>>> 999274e812c8bc70202a0744e9a532f9816c8f01
 >>>>>>> e4fa5fddbece9693c31963c741f74a6c4639762e
 wasim
 
 >>>>>>> cc7299118443dd637dcd2123588f95c90ab6835b
+>>>>>>> c95f9ed2809306183dc0c52d22cbfdd10b86537e
