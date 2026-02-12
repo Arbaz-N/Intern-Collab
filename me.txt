@@ -1,13 +1,17 @@
-
+Karthik
 
 
 Hello EveryOne 
 Karthik
 Karthik
 Hello all
+Hello alllll 
+mokshithnu Basudev Patra
+<<<<<<
 =======
 <<<<<<< HEAD
-=======
+>>>>>>> dc0560df7cfc405c4a3b547e630dd4846a719137
+>>>>>>> cc6dd237348db124c52fa51a264ec7e7c936acec
 tulasidas
 =======
 >>>>>>> f88297df239307f5cfeb51ac2248208ecbc5cb72
@@ -17,6 +21,7 @@ sameer Hello all
 
 >>>>>>> 1f6b75fec2129d2b988b5fbcdfc7e2d3a5495936
 
+>>>>>>> 999274e812c8bc70202a0744e9a532f9816c8f01
 Hello all
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -38,6 +43,7 @@ i am tulasidas
 =======
 =======
 <<<<<<< HEAD
+>>>>>>> 999274e812c8bc70202a0744e9a532f9816c8f01
 Ajay Sagar
 =======
 Hello all
@@ -56,13 +62,17 @@ Hello all guys
 >>>>>>> 999274e812c8bc70202a0744e9a532f9816c8f01
 >>>>>>> e4fa5fddbece9693c31963c741f74a6c4639762e
 wasim
+this is mallikarjuna
 
 <<<<<<< HEAD
 
 =======
 >>>>>>> cc7299118443dd637dcd2123588f95c90ab6835b
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 8b807b395e34313aa6d67c2809bd0a850bcb552c
+=======
+>>>>>>> cc6dd237348db124c52fa51a264ec7e7c936acec
 =======
 >>>>>>> c95f9ed2809306183dc0c52d22cbfdd10b86537e
 <<<<<<< HEAD
