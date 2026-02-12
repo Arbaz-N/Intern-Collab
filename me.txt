@@ -4,10 +4,17 @@ stop guys<<<<<<< HEAD <<<<<<< HEAD Hello all <<<<<<< HEAD i am tulasidas
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello alllll 
 mokshith
 =======
 =======
+=======
+Bishnu Basudev Patra
+<<<<<<
+=======
+<<<<<<< HEAD
+>>>>>>> dc0560df7cfc405c4a3b547e630dd4846a719137
 tulasidas
 =======
 <<<<<<< HEAD
@@ -18,6 +25,10 @@ sameer Hello all
 
 >>>>>>> 999274e812c8bc70202a0744e9a532f9816c8f01
 Hello all
+<<<<<<< HEAD
+<<<<<<< HEAD
+sumayya 
+=======
 
 I am siera siyannn
 
@@ -34,6 +45,7 @@ i am tulasidas
 =======
 =======
 <<<<<<< HEAD
+>>>>>>> 999274e812c8bc70202a0744e9a532f9816c8f01
 Ajay Sagar
 =======
 Hello all
