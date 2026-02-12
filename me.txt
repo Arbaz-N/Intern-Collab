@@ -6,9 +6,16 @@ I am Sayan
 
 =======
 <<<<<<< HEAD
+Hello all
+<<<<<<< HEAD
+i am tulasidas 
+=======
+=======
+<<<<<<< HEAD
 Ajay Sagar
 =======
 Hello all
+>>>>>>> db8dd717b61c9a2953eefebd0407acb5b49dbfe6
 =======
 >>>>>>> db8dd717b61c9a2953eefebd0407acb5b49dbfe6
 Hello all guys
