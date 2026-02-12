@@ -1,9 +1,4 @@
-stopppppppp
-stop guys<<<<<<< HEAD <<<<<<< HEAD Hello all <<<<<<< HEAD i am tulasidas 
-======= ======= <<<<<<< HEAD Ajay Sagar ======= Hello all
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 
 
 Hello EveryOne 
@@ -23,6 +18,10 @@ sameer Hello all
 >>>>>>> 1f6b75fec2129d2b988b5fbcdfc7e2d3a5495936
 
 Hello all
+<<<<<<< HEAD
+<<<<<<< HEAD
+sumayya 
+=======
 
 I am siera siyannn
 
@@ -66,4 +65,8 @@ wasim
 >>>>>>> 8b807b395e34313aa6d67c2809bd0a850bcb552c
 =======
 >>>>>>> c95f9ed2809306183dc0c52d22cbfdd10b86537e
+<<<<<<< HEAD
 >>>>>>> f88297df239307f5cfeb51ac2248208ecbc5cb72
+=======
+>>>>>>> 999274e812c8bc70202a0744e9a532f9816c8f01
+>>>>>>> 7821df68df984303cc0f27733a182175a3adc5b2
